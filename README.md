@@ -1,0 +1,3 @@
+# Yay
+
+Dockerised go microservice.
